@@ -30,6 +30,19 @@ School project. An eight-page Power BI report that explores a housing dataset an
 - Some categories have few observations.
 - The data has no neighbourhood quality, property age, amenities or market timing.
 
+## Preview
+
+| Preview | Page |
+|---------|------|
+| ![](01-summary-statistics.png) | Summary statistics |
+| ![](02-feature-distributions.png) | Feature distributions |
+| ![](03-price-analysis.png) | House price analysis |
+| ![](04-outliers.png) | Outlier analysis |
+| ![](05-correlation-analysis.png) | Correlation analysis |
+| ![](06-univariate-correlation.png) | Univariate correlation |
+| ![](07-fit-models.png) | Fit models |
+| ![](08-model-performance.png) | Model performance (residuals, Q-Q plot, scale-location, influence) |
+
 ## Files
 
 - `housing-price-regression.pbix`
