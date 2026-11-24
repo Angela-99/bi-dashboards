@@ -1,6 +1,6 @@
 # BI Dashboards
 
-Dashboards built in Power BI, with Tableau dashboards to follow. All projects are school projects.
+Dashboards built in Power BI and Tableau. All projects are school projects.
 
 ## Power BI
 
@@ -14,8 +14,14 @@ Dashboards built in Power BI, with Tableau dashboards to follow. All projects ar
 
 ## Tableau
 
-Coming soon.
+| Project | Data | Highlights |
+|---------|------|------------|
+| [Mobile Market Analysis](tableau/mobile-market-analysis) | Synthetic mobile sales | Four dashboards: executive overview, market and channel, product performance, diagnostic. [Live on Tableau Public](https://public.tableau.com/app/profile/angela.abongo/viz/MobileMarketAnalysis-Assignment) |
+
+More Tableau projects to follow.
 
 ## How to open the dashboards
 
-Download the `.pbix` file in a project folder and open it in Power BI Desktop (free, Windows). Each project folder also has a README and preview images where available.
+**Power BI:** open a project folder, click the `.pbix` file, then click the download icon at the top right of the file page. Open the downloaded file in Power BI Desktop (free, Windows).
+
+**Tableau:** use the live link in the table above, or in the project README. Each project folder also has a README and preview images.
