@@ -1,7 +1,6 @@
 # BI Dashboards
 
-Dashboards built in Power BI and Tableau. All projects are school projects.
-
+Dashboards built in Power BI and Tableau. 
 ## Power BI
 
 | # | Project | Data | Highlights |
